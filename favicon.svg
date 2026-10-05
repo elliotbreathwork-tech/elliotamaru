@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- Sceau Elliot Amaru, redessiné pour les très petites tailles.
+       Le sceau complet compte 452 tracés et le nom en travers : à 16 px
+       tout se referme en pâté. Ici on garde ce qui reste lisible, l'anneau
+       ouroboros ouvert en bas, trois cercles de labyrinthe et le chemin
+       central. Couleur or #EDB025, qui tient sur un onglet clair comme sombre. -->
+  <g fill="none" stroke="#EDB025" stroke-linecap="round">
+    <!-- Ouroboros, ouvert en bas. Ouvertures étroites : au-delà d'une
+         vingtaine de degrés les quatre anneaux se lisent comme une arche
+         et le rond disparaît. -->
+    <path d="M14.59 29.43 A 13.5 13.5 0 1 1 17.41 29.43" stroke-width="2.6"/>
+    <!-- Labyrinthe, trois anneaux à ouverture croissante -->
+    <path d="M14.26 25.85 A 10 10 0 1 1 17.74 25.85" stroke-width="1.5"/>
+    <path d="M14.59 22.65 A 6.8 6.8 0 1 1 17.41 22.65" stroke-width="1.5"/>
+    <path d="M14.89 19.42 A 3.6 3.6 0 1 1 17.11 19.42" stroke-width="1.5"/>
+    <!-- Le chemin qui descend du centre et traverse les trois ouvertures -->
+    <path d="M16 17.8 L 16 29.4" stroke-width="1.5"/>
+  </g>
+  <circle cx="16" cy="16" r="1.6" fill="#EDB025"/>
+</svg>
