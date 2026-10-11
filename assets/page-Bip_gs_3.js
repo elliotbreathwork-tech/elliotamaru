@@ -1,1 +1,0 @@
-import{a as e,i as t,n,r,s as i,t as a}from"./preload-helper-Ee188J7_.js";e(),i(),r(),t(),n(),document.documentElement.classList.add(`no-gl`),document.querySelector(`[data-island]`)&&(window.requestIdleCallback||setTimeout)(()=>a(()=>import(`./islands-BcOwsxU-.js`).then(e=>e.mountIslands()),[]));
