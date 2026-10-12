@@ -1,0 +1,1 @@
+import{a as e,i as t,n,r,s as i,t as a}from"./preload-helper-Kaj0JDSj.js";e(),i(),r(),t(),n(),document.documentElement.classList.add(`no-gl`),document.querySelector(`[data-island]`)&&(window.requestIdleCallback||setTimeout)(()=>a(()=>import(`./islands-CDEwTGmr.js`).then(e=>e.mountIslands()),[]));
