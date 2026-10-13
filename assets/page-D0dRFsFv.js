@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/islands-BbvtvFuq.js","assets/rolldown-runtime-CbXtAM7H.js","assets/react-eUuptAe2.js","assets/motion-GxQCAgFY.js"])))=>i.map(i=>d[i]);
+import{a as e,i as t,n,r,s as i,t as a}from"./preload-helper-B0ZXZQFu.js";e(),i(),r(),t(),n(),document.documentElement.classList.add(`no-gl`),document.querySelector(`[data-island]`)&&(window.requestIdleCallback||setTimeout)(()=>a(()=>import(`./islands-BbvtvFuq.js`).then(e=>e.mountIslands()),__vite__mapDeps([0,1,2,3])));
